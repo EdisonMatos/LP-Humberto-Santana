@@ -83,7 +83,7 @@ export const infos = {
   ),
   enderecoSecundario: (
     <div>
-    <p>Endereço:</p>
+      <p>Endereço:</p>
       <p>A_Definir</p>
       <p>A_Definir</p>
       <p>A_Definir</p>
@@ -399,7 +399,7 @@ const content = {
       miniTag: "QUEM É O DR. HUMBERTO SANTANA",
       title: "Minha trajetória",
       subtitle:
-        "Experiência e compromisso com a justiça militar e do servidor público",
+        "Experiência e compromisso com a Justiça Militar e do Servidor Público",
       labelInstagram: "Siga-me no Instagram",
       labelFacebook: "Siga-me no Facebook",
       labelLinkedin: "Siga-me no LinkedIn",
@@ -409,7 +409,8 @@ const content = {
           Advogado em São Luís – MA, com atuação em todo o Brasil. Oficial
           Superior da Reserva, dediquei mais de três décadas à Força Estadual de
           Segurança Pública e transformei minha experiência em uma missão: lutar
-          pelos direitos de militares e servidores públicos.
+          pelos direitos de militares e servidores públicos. Sou Membro da
+          Comissão de Direito e Advocacia Militar da OAB/MA.
           <br />
         </div>
       ),
@@ -419,7 +420,8 @@ const content = {
           Advogado em São Luís – MA, com atuação em todo o Brasil. Oficial
           Superior da Reserva, dediquei mais de três décadas à Força Estadual de
           Segurança Pública e transformei minha experiência em uma missão: lutar
-          pelos direitos de militares e servidores públicos.
+          pelos direitos de militares e servidores públicos. Sou Membro da
+          Comissão de Direito e Advocacia Militar da OAB/MA.
           <br />
           <br />
           Especializei-me em Direito Militar, com pós-graduação em Direito
