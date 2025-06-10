@@ -437,22 +437,24 @@ const content = {
       labelX: "Siga-me no X",
       paragraph: (
         <div>
-          Advogado em São Luís – MA, com atuação em todo o Brasil. Oficial
-          Superior da Reserva, dediquei mais de três décadas à Força Estadual de
-          Segurança Pública e transformei minha experiência em uma missão: lutar
-          pelos direitos de militares e servidores públicos. Sou Membro da
-          Comissão de Direito e Advocacia Militar da OAB/MA.
+          Advogado em São Luís, OAB/MA No. 29.774, com atuação em todo o Brasil.
+          Oficial Superior da Reserva, dediquei mais de três décadas à Força
+          Estadual de Segurança Pública e transformei minha experiência em uma
+          missão: lutar pelos direitos de militares e servidores públicos. Sou
+          Membro da Comissão de Direito e Advocacia Militar da OAB Seccional
+          Maranhão.
           <br />
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          Advogado em São Luís – MA, com atuação em todo o Brasil. Oficial
-          Superior da Reserva, dediquei mais de três décadas à Força Estadual de
-          Segurança Pública e transformei minha experiência em uma missão: lutar
-          pelos direitos de militares e servidores públicos. Sou Membro da
-          Comissão de Direito e Advocacia Militar da OAB/MA.
+          Advogado em São Luís, OAB/MA No. 29.774, com atuação em todo o Brasil.
+          Oficial Superior da Reserva, dediquei mais de três décadas à Força
+          Estadual de Segurança Pública e transformei minha experiência em uma
+          missão: lutar pelos direitos de militares e servidores públicos. Sou
+          Membro da Comissão de Direito e Advocacia Militar da OAB Seccional
+          Maranhão.
           <br />
           <br />
           Especializei-me em Direito Militar, com pós-graduação em Direito
