@@ -204,10 +204,19 @@ const content = {
           "Defesa jurídica de militares na esfera judicial e administrativa.",
         description: (
           <div>
-            A_Definir
+            Também conhecido como Direito Castrense, é o ramo do direito
+            relacionado à legislação que regula as atividades dos servidores
+            militares, alcançando tanto aos militares federais, que são os
+            integrantes das Forças Armadas (Exército Brasileiro, Marinha de
+            Guerra e Força Aérea Brasileira), como aos militares estaduais
+            (Polícias Militares e dos Corpos de Bombeiros Militares).
             <br />
             <br />
-            A_Definir
+            Portanto, cuida de uma categoria de agentes públicos que são
+            considerados especiais, com direitos e prerrogativas que na sua
+            maioria não são assegurados aos funcionários civis, mas, ao mesmo
+            tempo, possuem obrigações diferenciadas, como por exemplo, o
+            sacrifício da própria vida no cumprimento de missão constitucional.
           </div>
         ),
         imgModal: imgFeaturesCardModal1,
@@ -236,10 +245,20 @@ const content = {
         subtitle: "Garantia de benefícios e proteção social para militares.",
         description: (
           <div>
-            A_Definir
+            É uma área específica do Direito Previdenciário que trata das normas
+            que regulam a proteção social dos militares, assim como de seus
+            dependentes.
             <br />
             <br />
-            A_Definir
+            Esse ramo do Direito Previdenciário é regulamentado por leis e
+            regulamentos próprios, que estabelecem as condições para a concessão
+            de benefícios como pensão militar, reforma, reserva remunerada,
+            entre outros.
+            <br />
+            <br />O objetivo é garantir a proteção social e o bem-estar dos
+            militares que dedicam suas vidas à defesa da pátria e da ordem
+            pública, bem como de seus familiares que dependem desses benefícios
+            para sua subsistência.
           </div>
         ),
         imgModal: imgFeaturesCardModal2,
@@ -270,9 +289,14 @@ const content = {
         subtitle: "Regulação das relações e sanções na administração militar.",
         description: (
           <div>
-            A_Definir <br />
-            <br />
-            A_Definir
+            Também conhecido como Direito Castrense, essa é uma área do direito
+            que trata das relações dentro da administração pública militar, bem
+            como seus integrantes. A palavra castrense tem origem latina,
+            designando o direito aplicado nos acampamentos do Exército Romano e
+            aplicável até hoje à Justiça Militar. Ele regula as atividades
+            administrativas dos militares e as suas relações com o Estado,
+            abrangendo desde a admissão e a carreira até as sanções
+            disciplinares e a aposentadoria.
           </div>
         ),
         imgModal: imgFeaturesCardModal3,
@@ -303,9 +327,16 @@ const content = {
           "Assistência jurídica para assegurar direitos dos servidores.",
         description: (
           <div>
-            A_Definir
+            Após sua posse, Servidores Públicos passam a possuir direitos e
+            deveres específicos na prestação de seus serviços junto ao
+            município, estado ou país. Com isso, durante essa relação entre as
+            partes, podem surgir alguns conflitos entre os interesses do
+            profissional e da instituição.
             <br />
-            A_Definir
+            É nesse ponto que se torna necessária a assistência de um advogado
+            especializado nas leis e regras que envolvem a administração pública
+            e, em especial, os direitos dos agentes. Dessa forma, o profissional
+            pode garantir que seus benefícios sejam assegurados.
             <br />
           </div>
         ),
